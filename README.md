@@ -1,5 +1,6 @@
 # MiniatureGolf
-Play now on [Simmer.io](https://simmer.io/@KHe1004/miniaturegolf)
+
+## Play now on [Simmer.io](https://simmer.io/@KHe1004/miniaturegolf)
 
 7 hole miniature golf game made using Unity.
 
